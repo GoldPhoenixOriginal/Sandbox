@@ -1,0 +1,53 @@
+{
+    "Block [14, 1]": {
+        "id": "stone"
+    },
+    "Block [12, 2]": {
+        "id": "stone"
+    },
+    "Block [13, 1]": {
+        "id": "stone"
+    },
+    "Block [15, 0]": {
+        "id": "stone"
+    },
+    "Block [15, 1]": {
+        "id": "stone"
+    },
+    "Block [15, 2]": {
+        "id": "stone"
+    },
+    "Block [14, 2]": {
+        "id": "stone"
+    },
+    "Block [13, 2]": {
+        "id": "stone"
+    },
+    "Block [11, 3]": {
+        "id": "stone"
+    },
+    "Block [12, 3]": {
+        "id": "stone"
+    },
+    "Block [13, 3]": {
+        "id": "stone"
+    },
+    "Block [14, 3]": {
+        "id": "stone"
+    },
+    "Block [15, 3]": {
+        "id": "stone"
+    },
+    "Block [10, 4]": {
+        "id": "stone"
+    },
+    "Block [11, 4]": {
+        "id": "stone"
+    },
+    "Block [12, 4]": {
+        "id": "stone"
+    },
+    "Block [13, 4]": {
+        "id": "stone"
+    }
+}

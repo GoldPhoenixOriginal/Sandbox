@@ -1,0 +1,26 @@
+{
+    "Block [10, 0]": {
+        "id": "stone"
+    },
+    "Block [9, 0]": {
+        "id": "stone"
+    },
+    "Block [10, 1]": {
+        "id": "stone"
+    },
+    "Block [9, 1]": {
+        "id": "stone"
+    },
+    "Block [9, 2]": {
+        "id": "stone"
+    },
+    "Block [10, 2]": {
+        "id": "stone"
+    },
+    "Block [9, 3]": {
+        "id": "stone"
+    },
+    "Block [10, 3]": {
+        "id": "stone"
+    }
+}

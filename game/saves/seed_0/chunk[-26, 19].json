@@ -1,0 +1,140 @@
+{
+    "Block [3, 15]": {
+        "id": "stone"
+    },
+    "Block [4, 15]": {
+        "id": "stone"
+    },
+    "Block [5, 15]": {
+        "id": "stone"
+    },
+    "Block [6, 15]": {
+        "id": "stone"
+    },
+    "Block [4, 14]": {
+        "id": "stone"
+    },
+    "Block [5, 13]": {
+        "id": "stone"
+    },
+    "Block [6, 12]": {
+        "id": "stone"
+    },
+    "Block [5, 14]": {
+        "id": "stone"
+    },
+    "Block [6, 13]": {
+        "id": "stone"
+    },
+    "Block [7, 12]": {
+        "id": "stone"
+    },
+    "Block [15, 15]": {
+        "id": "stone"
+    },
+    "Block [14, 15]": {
+        "id": "stone"
+    },
+    "Block [13, 15]": {
+        "id": "stone"
+    },
+    "Block [12, 15]": {
+        "id": "stone"
+    },
+    "Block [11, 15]": {
+        "id": "stone"
+    },
+    "Block [9, 15]": {
+        "id": "stone"
+    },
+    "Block [8, 15]": {
+        "id": "stone"
+    },
+    "Block [7, 15]": {
+        "id": "stone"
+    },
+    "Block [10, 15]": {
+        "id": "stone"
+    },
+    "Block [8, 12]": {
+        "id": "stone"
+    },
+    "Block [9, 12]": {
+        "id": "stone"
+    },
+    "Block [10, 12]": {
+        "id": "stone"
+    },
+    "Block [11, 12]": {
+        "id": "stone"
+    },
+    "Block [12, 12]": {
+        "id": "stone"
+    },
+    "Block [13, 12]": {
+        "id": "stone"
+    },
+    "Block [14, 12]": {
+        "id": "stone"
+    },
+    "Block [15, 12]": {
+        "id": "stone"
+    },
+    "Block [15, 14]": {
+        "id": "air"
+    },
+    "Block [14, 14]": {
+        "id": "air"
+    },
+    "Block [13, 14]": {
+        "id": "air"
+    },
+    "Block [12, 14]": {
+        "id": "air"
+    },
+    "Block [11, 14]": {
+        "id": "air"
+    },
+    "Block [10, 14]": {
+        "id": "air"
+    },
+    "Block [9, 14]": {
+        "id": "air"
+    },
+    "Block [8, 14]": {
+        "id": "air"
+    },
+    "Block [7, 14]": {
+        "id": "air"
+    },
+    "Block [6, 14]": {
+        "id": "air"
+    },
+    "Block [7, 13]": {
+        "id": "air"
+    },
+    "Block [8, 13]": {
+        "id": "air"
+    },
+    "Block [9, 13]": {
+        "id": "air"
+    },
+    "Block [10, 13]": {
+        "id": "air"
+    },
+    "Block [11, 13]": {
+        "id": "air"
+    },
+    "Block [12, 13]": {
+        "id": "air"
+    },
+    "Block [13, 13]": {
+        "id": "air"
+    },
+    "Block [14, 13]": {
+        "id": "air"
+    },
+    "Block [15, 13]": {
+        "id": "air"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "Block [4, 15]": {
+        "id": "stone"
+    },
+    "Block [6, 15]": {
+        "id": "stone"
+    },
+    "Block [7, 15]": {
+        "id": "stone"
+    },
+    "Block [5, 15]": {
+        "id": "stone"
+    },
+    "Block [6, 14]": {
+        "id": "stone"
+    },
+    "Block [5, 13]": {
+        "id": "stone"
+    },
+    "Block [4, 12]": {
+        "id": "stone"
+    },
+    "Block [5, 14]": {
+        "id": "stone"
+    },
+    "Block [4, 13]": {
+        "id": "stone"
+    },
+    "Block [3, 12]": {
+        "id": "stone"
+    },
+    "Block [3, 15]": {
+        "id": "stone"
+    },
+    "Block [2, 15]": {
+        "id": "stone"
+    },
+    "Block [1, 15]": {
+        "id": "stone"
+    },
+    "Block [0, 15]": {
+        "id": "stone"
+    },
+    "Block [0, 12]": {
+        "id": "stone"
+    },
+    "Block [1, 12]": {
+        "id": "stone"
+    },
+    "Block [2, 12]": {
+        "id": "stone"
+    },
+    "Block [4, 14]": {
+        "id": "air"
+    },
+    "Block [3, 14]": {
+        "id": "air"
+    },
+    "Block [2, 14]": {
+        "id": "air"
+    },
+    "Block [1, 14]": {
+        "id": "air"
+    },
+    "Block [0, 14]": {
+        "id": "air"
+    },
+    "Block [0, 13]": {
+        "id": "air"
+    },
+    "Block [1, 13]": {
+        "id": "air"
+    },
+    "Block [2, 13]": {
+        "id": "air"
+    },
+    "Block [3, 13]": {
+        "id": "air"
+    }
+}

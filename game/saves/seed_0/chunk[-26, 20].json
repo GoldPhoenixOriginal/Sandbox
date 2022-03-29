@@ -1,0 +1,230 @@
+{
+    "Block [10, 4]": {
+        "id": "stone"
+    },
+    "Block [11, 4]": {
+        "id": "stone"
+    },
+    "Block [12, 4]": {
+        "id": "stone"
+    },
+    "Block [13, 4]": {
+        "id": "stone"
+    },
+    "Block [14, 4]": {
+        "id": "stone"
+    },
+    "Block [15, 4]": {
+        "id": "stone"
+    },
+    "Block [14, 5]": {
+        "id": "stone"
+    },
+    "Block [13, 5]": {
+        "id": "stone"
+    },
+    "Block [12, 5]": {
+        "id": "stone"
+    },
+    "Block [6, 0]": {
+        "id": "air"
+    },
+    "Block [6, 1]": {
+        "id": "air"
+    },
+    "Block [6, 2]": {
+        "id": "air"
+    },
+    "Block [6, 3]": {
+        "id": "air"
+    },
+    "Block [5, 0]": {
+        "id": "stone"
+    },
+    "Block [5, 1]": {
+        "id": "stone"
+    },
+    "Block [5, 2]": {
+        "id": "stone"
+    },
+    "Block [5, 3]": {
+        "id": "stone"
+    },
+    "Block [15, 5]": {
+        "id": "stone"
+    },
+    "Block [15, 6]": {
+        "id": "air"
+    },
+    "Block [9, 4]": {
+        "id": "stone"
+    },
+    "Block [8, 4]": {
+        "id": "stone"
+    },
+    "Block [7, 4]": {
+        "id": "stone"
+    },
+    "Block [6, 4]": {
+        "id": "stone"
+    },
+    "Block [5, 4]": {
+        "id": "stone"
+    },
+    "Block [4, 4]": {
+        "id": "stone"
+    },
+    "Block [3, 4]": {
+        "id": "stone"
+    },
+    "Block [11, 5]": {
+        "id": "stone"
+    },
+    "Block [10, 5]": {
+        "id": "stone"
+    },
+    "Block [9, 5]": {
+        "id": "stone"
+    },
+    "Block [8, 5]": {
+        "id": "stone"
+    },
+    "Block [7, 5]": {
+        "id": "stone"
+    },
+    "Block [6, 5]": {
+        "id": "stone"
+    },
+    "Block [5, 5]": {
+        "id": "stone"
+    },
+    "Block [4, 5]": {
+        "id": "stone"
+    },
+    "Block [3, 5]": {
+        "id": "stone"
+    },
+    "Block [2, 5]": {
+        "id": "stone"
+    },
+    "Block [2, 6]": {
+        "id": "stone"
+    },
+    "Block [1, 6]": {
+        "id": "stone"
+    },
+    "Block [1, 5]": {
+        "id": "stone"
+    },
+    "Block [3, 6]": {
+        "id": "stone"
+    },
+    "Block [7, 3]": {
+        "id": "air"
+    },
+    "Block [8, 3]": {
+        "id": "air"
+    },
+    "Block [9, 3]": {
+        "id": "air"
+    },
+    "Block [10, 3]": {
+        "id": "air"
+    },
+    "Block [11, 3]": {
+        "id": "air"
+    },
+    "Block [12, 3]": {
+        "id": "air"
+    },
+    "Block [13, 3]": {
+        "id": "air"
+    },
+    "Block [14, 3]": {
+        "id": "air"
+    },
+    "Block [15, 3]": {
+        "id": "air"
+    },
+    "Block [15, 2]": {
+        "id": "air"
+    },
+    "Block [14, 2]": {
+        "id": "air"
+    },
+    "Block [13, 2]": {
+        "id": "air"
+    },
+    "Block [12, 2]": {
+        "id": "air"
+    },
+    "Block [11, 2]": {
+        "id": "air"
+    },
+    "Block [10, 2]": {
+        "id": "air"
+    },
+    "Block [9, 2]": {
+        "id": "air"
+    },
+    "Block [8, 2]": {
+        "id": "air"
+    },
+    "Block [7, 2]": {
+        "id": "air"
+    },
+    "Block [7, 1]": {
+        "id": "air"
+    },
+    "Block [8, 1]": {
+        "id": "air"
+    },
+    "Block [9, 1]": {
+        "id": "air"
+    },
+    "Block [10, 1]": {
+        "id": "air"
+    },
+    "Block [11, 1]": {
+        "id": "air"
+    },
+    "Block [12, 1]": {
+        "id": "air"
+    },
+    "Block [13, 1]": {
+        "id": "air"
+    },
+    "Block [14, 1]": {
+        "id": "air"
+    },
+    "Block [15, 1]": {
+        "id": "air"
+    },
+    "Block [15, 0]": {
+        "id": "air"
+    },
+    "Block [14, 0]": {
+        "id": "air"
+    },
+    "Block [13, 0]": {
+        "id": "air"
+    },
+    "Block [12, 0]": {
+        "id": "air"
+    },
+    "Block [11, 0]": {
+        "id": "air"
+    },
+    "Block [10, 0]": {
+        "id": "air"
+    },
+    "Block [9, 0]": {
+        "id": "air"
+    },
+    "Block [8, 0]": {
+        "id": "air"
+    },
+    "Block [7, 0]": {
+        "id": "air"
+    }
+}
