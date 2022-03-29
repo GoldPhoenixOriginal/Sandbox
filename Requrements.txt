@@ -1,4 +1,0 @@
-pip install pygame
-pip install requrements\noise-1.2.3-cp39-cp39-win_amd64.whl
-pip install requrements\pyopencl-2021.2.11-cp39-cp39-win_amd64.whl
-pip install pynoise
