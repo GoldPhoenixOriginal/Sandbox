@@ -1,6 +1,6 @@
 from game.noises.noise_functions import shifty
 from game.noises.noise_functions import simplex
-from game.noises.noise_functions import rigged
+# from game.noises.noise_functions import rigged
 from game.parameters import parameters
 
 
@@ -12,5 +12,5 @@ def get(noise_type, x, y, octaves=parameters.noise_octaves, freq=parameters.nois
     if noise_type == 'shifty':
         return shifty.get(x, y, octaves=octaves, freq=freq, amplitude=amplitude, shift_octaves=shift_octaves,
                           shift_freq=shift_freq, shift_amplitude=shift_amplitude, seed_shift=seed_shift)
-    if noise_type == 'rigged':
-        return rigged.get(x, y, octaves=octaves, freq=freq, seed_shift=seed_shift)
+    # if noise_type == 'rigged':
+    #     return rigged.get(x, y, octaves=octaves, freq=freq, seed_shift=seed_shift)
